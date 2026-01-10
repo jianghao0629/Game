@@ -1,4 +1,4 @@
-### Game
+
+### 项目介绍
 2026/1/10   
-I create this project .  
-I want to make a simple game as my first project .
+我创建了这个项目,用于制作一个简单的小游戏
